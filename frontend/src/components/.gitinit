@@ -1,0 +1,16 @@
+# Python (Django)
+__pycache__/
+*.pyc
+db.mysql
+.env
+
+# Node (React)
+node_modules/
+dist/
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
